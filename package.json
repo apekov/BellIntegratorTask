@@ -1,0 +1,15 @@
+{
+    "name": "bellintegratortest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "nodemon server.js",
+        "start": "node server.js"
+    },
+    "author": "Alan",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
